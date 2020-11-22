@@ -11,7 +11,7 @@ public class dateClassConcepts {
 
         //if we want to customize the date format as mm//dd//yyyy HH:MM:SS we need class SimpleDateFormat
 
-        SimpleDateFormat adf = new SimpleDateFormat("dd/MM/YYYY, EEEEEEEEEEEE");
+        SimpleDateFormat adf = new SimpleDateFormat("dd/MM/YYYY, EEEEEEE");
         //M - month
         // Y - year
         // d - day in month
