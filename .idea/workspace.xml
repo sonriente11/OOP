@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d471c253-7f8f-40ad-9a67-972d9453e037" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1je2n9WfeAc9hdAsBgTUoQ47NsQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.collectionDemo">
+    <configuration name="arrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.OOP.arrayListExample" />
+      <module name="javaExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.OOP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="collectionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.OOP.collectionDemo" />
+      <module name="javaExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.OOP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="handleExceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.OOP.handleExceptions" />
+      <module name="javaExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.OOP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hashMapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.OOP.hashMapExample" />
+      <module name="javaExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.OOP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hashSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.OOP.hashSetExample" />
+      <module name="javaExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.OOP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.handleExceptions" />
+      <item itemvalue="Application.arrayListExample" />
+      <item itemvalue="Application.hashSetExample" />
+      <item itemvalue="Application.hashMapExample" />
+      <item itemvalue="Application.collectionDemo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.collectionDemo" />
+        <item itemvalue="Application.hashMapExample" />
+        <item itemvalue="Application.hashSetExample" />
+        <item itemvalue="Application.arrayListExample" />
+        <item itemvalue="Application.handleExceptions" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d471c253-7f8f-40ad-9a67-972d9453e037" name="Default Changelist" comment="" />
+      <created>1604150400999</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604150400999</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2685" y="289" key="#com.intellij.ide.util.MemberChooser" timestamp="1604223283956">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2685" y="289" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/1920.0.1920.1160@1920.0.1920.1160" timestamp="1604223283956" />
+    <state x="3087" y="475" width="398" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1604772767036">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="3087" y="475" width="398" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680/1920.0.1920.1160@1920.0.1920.1160" timestamp="1604772767036" />
+    <state x="421" y="99" key="FileChooserDialogImpl" timestamp="1604942992371">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="99" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1604942992371" />
+    <state width="1237" height="135" key="GridCell.Tab.0.bottom" timestamp="1606053505106">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="147" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1160@0.0.1280.680" timestamp="1605174784437" />
+    <state width="1021" height="293" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1160@1920.0.1920.1160" timestamp="1605984986028" />
+    <state width="1237" height="135" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1606053505106" />
+    <state width="1237" height="135" key="GridCell.Tab.0.center" timestamp="1606053505105">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="147" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1160@0.0.1280.680" timestamp="1605174784437" />
+    <state width="1021" height="293" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1160@1920.0.1920.1160" timestamp="1605984986027" />
+    <state width="1237" height="135" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1606053505105" />
+    <state width="1237" height="135" key="GridCell.Tab.0.left" timestamp="1606053505105">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="147" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1160@0.0.1280.680" timestamp="1605174784437" />
+    <state width="1021" height="293" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1160@1920.0.1920.1160" timestamp="1605984986027" />
+    <state width="1237" height="135" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1606053505105" />
+    <state width="1237" height="135" key="GridCell.Tab.0.right" timestamp="1606053505105">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="147" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1160@0.0.1280.680" timestamp="1605174784437" />
+    <state width="1021" height="293" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1160@1920.0.1920.1160" timestamp="1605984986028" />
+    <state width="1237" height="135" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1606053505105" />
+    <state width="1120" height="394" key="GridCell.Tab.1.bottom" timestamp="1604941646324">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1120" height="394" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.0.1920.1160@1920.0.1920.1160" timestamp="1604679434750" />
+    <state width="1120" height="394" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1604941646324" />
+    <state width="1120" height="394" key="GridCell.Tab.1.center" timestamp="1604941646324">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1120" height="394" key="GridCell.Tab.1.center/0.0.1280.680/1920.0.1920.1160@1920.0.1920.1160" timestamp="1604679434750" />
+    <state width="1120" height="394" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1604941646324" />
+    <state width="1120" height="394" key="GridCell.Tab.1.left" timestamp="1604941646324">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1120" height="394" key="GridCell.Tab.1.left/0.0.1280.680/1920.0.1920.1160@1920.0.1920.1160" timestamp="1604679434750" />
+    <state width="1120" height="394" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1604941646324" />
+    <state width="1120" height="394" key="GridCell.Tab.1.right" timestamp="1604941646324">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1120" height="394" key="GridCell.Tab.1.right/0.0.1280.680/1920.0.1920.1160@1920.0.1920.1160" timestamp="1604679434750" />
+    <state width="1120" height="394" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1604941646324" />
+    <state x="349" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1605967850142">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="349" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1920.1160@0.0.1280.680" timestamp="1605967850142" />
+    <state x="349" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1604941668882" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/OOP/arraysExercise.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/OOP/arraysExercise.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
